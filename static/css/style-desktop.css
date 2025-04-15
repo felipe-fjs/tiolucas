@@ -1,0 +1,23 @@
+.navbar .link-wpp > span,
+.navbar .link-insta > span {
+    display: none;
+}
+
+.nav-item .link-wpp:hover img,
+.nav-item .link-insta:hover img {
+    box-shadow: 1px 1px 3px black;
+}
+
+main > .content {
+    margin: 0 auto;
+    width: 669px;
+}
+
+.contacts > .contact-info img {
+    height: 20px;
+    width: 20px;
+}
+
+.contacts > .contact-info {
+    font-size: 20px;
+}
